@@ -10,7 +10,7 @@ This is prove 1 where we show we have our vscode and guthub set up in order to c
 
 YouTube video link:
 
-[Software Demo Video](http://youtube.link.goes.here)
+https://youtu.be/3s7oUwSCERQ
 
 # Development Environment
 
