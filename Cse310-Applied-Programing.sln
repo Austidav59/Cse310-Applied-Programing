@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "portfolio-1", "portfolio-1", "{7FECD9A4-4162-4827-B08E-C20B32E53DA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "weather", "portfolio-1\weather\weather.csproj", "{55EB421F-FFE1-41C6-95C5-E62E3A63C108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55EB421F-FFE1-41C6-95C5-E62E3A63C108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EB421F-FFE1-41C6-95C5-E62E3A63C108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EB421F-FFE1-41C6-95C5-E62E3A63C108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EB421F-FFE1-41C6-95C5-E62E3A63C108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{55EB421F-FFE1-41C6-95C5-E62E3A63C108} = {7FECD9A4-4162-4827-B08E-C20B32E53DA7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8CB251A-B7FE-4991-BC6F-14C5FF1DC0D3}
+	EndGlobalSection
+EndGlobal
